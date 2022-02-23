@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c7dc7a2-403c-459b-98bd-ec6544233138": {
+      "ProjectGuid": "6c7dc7a2-403c-459b-98bd-ec6544233138",
+      "DisplayName": "Code Louisville Final project",
+      "ColorIndex": 0
+    },
+    "b8c22859-2017-47bd-9554-8af6d5dee0e7": {
+      "ProjectGuid": "b8c22859-2017-47bd-9554-8af6d5dee0e7",
+      "DisplayName": "Engine",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
