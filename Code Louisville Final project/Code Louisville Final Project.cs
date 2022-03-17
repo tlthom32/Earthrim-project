@@ -20,23 +20,13 @@ namespace Code_Louisville_Final_project
         {
             InitializeComponent();
 
-            Location location = new Location(1, "Home", "This is your house.");
-            location.ID = 1;
-            location.Name = "Home";
-            location.Description = "This is your house.";
+            _player = new Player(10, 10, 20, 0, 1);
 
-            _player = new Player();
 
-            _player.currentHitPoints = 10;
-            _player.maximumHitPoints = 10;
-            _player.gold = 20;
-            _player.XP = 0;
-            _player.level = 1;
-
-            lblHitPoints.Text = _player.currentHitPoints.ToString();
-            lblGold.Text = _player.gold.ToString();
+            lblHitPoints.Text = _player.CurrentHitPoints.ToString();
+            lblGold.Text = _player.Gold.ToString();
             lblXP.Text = _player.XP.ToString();
-            lblLevel.Text = _player.level.ToString();
+            lblLevel.Text = _player.Level.ToString();
 
         }       
     }

@@ -3,14 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Defines object "weapon"
 namespace Engine
 {
-    public class weapon : item
+    public class Weapon : Item
     {
-        //Defines object "weapon"
-        public int minimumDamage { get; set; }
-        public int maximumDamage { get; set; }
+        
+        public int MinimumDamage { get; set; }
+        public int MaximumDamage { get; set; }
+
+        public Weapon(int id, string name, string namePlural, int minimumDamage, int maximumDamage) : base(id, 
+            name, namePlural)
+        {
+            MinimumDamage=minimumDamage;
+            MaximumDamage=maximumDamage;
+        }
 
 
     }
