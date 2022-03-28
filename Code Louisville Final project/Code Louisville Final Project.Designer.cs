@@ -125,7 +125,7 @@
             this.lblXP.ForeColor = System.Drawing.Color.Blue;
             this.lblXP.Location = new System.Drawing.Point(77, 63);
             this.lblXP.Name = "lblXP";
-            this.lblXP.Size = new System.Drawing.Size(0, 19);
+            this.lblXP.Size = new System.Drawing.Size(0, 19); 
             this.lblXP.TabIndex = 6;
             // 
             // lblLevel
