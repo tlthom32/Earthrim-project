@@ -18,11 +18,11 @@ C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\ob
 C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\obj\Debug\Code_Louisville_Final_project.Properties.Resources.resources
 C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\obj\Debug\Code Louisville Final project.csproj.GenerateResource.cache
 C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\obj\Debug\Code Louisville Final project.csproj.CoreCompileInputs.cache
-C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\obj\Debug\Code Louisville Final project.exe
-C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\obj\Debug\Code Louisville Final project.pdb
 C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\bin\Debug\Code Louisville Final project.exe.config
 C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\bin\Debug\Code Louisville Final project.exe
 C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\bin\Debug\Code Louisville Final project.pdb
 C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\bin\Debug\Engine.dll
 C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\bin\Debug\Engine.pdb
 C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\obj\Debug\Code Louisville Final project.csproj.CopyComplete
+C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\obj\Debug\Code Louisville Final project.exe
+C:\Users\tltho\Source\Repos\Final-Project-files\Code Louisville Final project\obj\Debug\Code Louisville Final project.pdb

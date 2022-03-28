@@ -206,7 +206,7 @@
             // 
             // btnWest
             // 
-            this.btnWest.Location = new System.Drawing.Point(396, 493);
+            this.btnWest.Location = new System.Drawing.Point(393, 493);
             this.btnWest.Name = "btnWest";
             this.btnWest.Size = new System.Drawing.Size(75, 23);
             this.btnWest.TabIndex = 15;
