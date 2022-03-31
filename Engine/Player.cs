@@ -10,7 +10,10 @@ namespace Engine
     {
         public int Gold { get; set; }
         public int XP { get; set; }
-        public int Level { get; set; }
+        public int Level
+        {
+            get { return ((XP / 100) + 1); }
+        }
         public Location CurrentLocation { get; set; }
         public List<InventoryItem> Inventory { get; set; }
         public List<PlayerQuest> Quests { get; set; }
@@ -19,7 +22,6 @@ namespace Engine
         {
             Gold = gold;
             XP = xP;
-            Level = level;
 
             Inventory = new List<InventoryItem>();
             Quests = new List<PlayerQuest>();

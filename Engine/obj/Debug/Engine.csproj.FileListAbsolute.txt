@@ -9,3 +9,4 @@ C:\Users\tltho\Source\Repos\Final-Project-files\Engine\bin\Debug\Engine.pdb
 C:\Users\tltho\Source\Repos\Final-Project-files\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
 C:\Users\tltho\Source\Repos\Final-Project-files\Engine\obj\Debug\Engine.dll
 C:\Users\tltho\Source\Repos\Final-Project-files\Engine\obj\Debug\Engine.pdb
+C:\Users\tltho\Source\Repos\Final-Project-files\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
