@@ -7,7 +7,7 @@
  2. Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program
  3. Use a LINQ query to retrieve information from a data structure (such as a list or array) or file
 
-
+NOTE: Please forgive me for not renaming my entire project, i did rename the Github repo, but nearly lost all of my code when i tried to rename the files...
  
  
  Instructions pre-game:
@@ -15,3 +15,14 @@
  
  Instructions in-game:
  You start at home! from here you can move into the town square. There are two locations to the west (linearly), two locations to the north (linearly), and three locations to the east (linearly).
+
+Map Layout EX:
+ 
+ 
+                       Alchemists Garden
+                             ^
+                       Alchemists hut    
+                             ^
+ Farmers field - farmhouse - Town Square > Guard post (need "Adventurers pass" to pass the guard) > bridge > Forest (beware the Giant spider...)
+                             ^
+                           Home (start/respawn point)
