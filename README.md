@@ -17,12 +17,10 @@ NOTE: Please forgive me for not renaming my entire project, i did rename the Git
  You start at home! from here you can move into the town square. There are two locations to the west (linearly), two locations to the north (linearly), and three locations to the east (linearly).
 
 Map Layout EX:
- 
- 
-                       Alchemists Garden
-                             ^
-                       Alchemists hut    
-                             ^
- Farmers field - farmhouse - Town Square > Guard post (need "Adventurers pass" to pass the guard) > bridge > Forest (beware the Giant spider...)
-                             ^
-                           Home (start/respawn point)
+                          Alchemists Garden
+                                ^
+                          Alchemists hut    
+                                ^
+Farmers field - farmhouse - Town Square > Guard post (need "Adventurers pass" to pass the guard) > bridge > Forest (beware the Giant spider...)
+                                ^
+                             Home (start/respawn point)
