@@ -16,7 +16,7 @@ NOTE: Please forgive me for not renaming my entire project, i did rename the Git
  Instructions in-game:
  You start at home! from here you can move into the town square. There are two locations to the west (linearly), two locations to the north (linearly), and three locations to the east (linearly).
 
-Map Layout EX:
+Map Layout EX: (please view in RAW to see the actual map layout)
                           Alchemists Garden
                                 ^
                           Alchemists hut    
